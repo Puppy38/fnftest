@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		70,
+		240
+	],
+	"scale": 3,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "Phone",
+			"idle_name": "Phone"
+		}
+	],
+	"image": "Phone"
+}
