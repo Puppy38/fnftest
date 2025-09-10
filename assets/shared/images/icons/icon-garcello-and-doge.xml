@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-garcello-and-doge.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="icon0000" x="139" y="0" width="136" height="116" frameX="-10" frameY="-21" frameWidth="150" frameHeight="150"/>
+	<SubTexture name="danger0000" x="0" y="0" width="139" height="117" frameX="2" frameY="-23" frameWidth="150" frameHeight="150"/>
+</TextureAtlas>
